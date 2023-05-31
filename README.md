@@ -3,6 +3,7 @@
 
 ### 2. Control Flow Graph
 
+![ControlFlowGraph](https://github.com/MilaTrifunova/SI_2023_lab2_191131/assets/94220044/beffcbeb-3d5c-454f-8338-c3cea21d8b66)
 
 ### 3. Цикломатска комплексност
 
